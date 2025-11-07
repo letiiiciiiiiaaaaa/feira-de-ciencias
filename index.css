@@ -1,4 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
 body{
-    background-image: url(fundo.png); 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+.fundo{
+    position: fixed;
+}
+
+#fundoa{
+    width: 113%;
+    height: 60em;
+}
+
+.titulo{
+    position: absolute;
+    padding-left: 10em;
+    padding-top: 260px;
+    font-size: 95px;
+    color: white;
+    letter-spacing: 1.4px;
+}
+
+#um{
+    font-family: "Playfair Display", serif;
+    font-size: 100px;
+    margin-right: 0px;
+}
+
+#dois{
+    font-family: "Great Vibes", cursive;
+    color: #cbe6ff;
+    margin-left: 250px;
+}
+
+#tres{
+    font-family: "Playfair Display", serif;
+    margin-right: 15px;
+    margin-left: 18px;
+    font-size: 130px;
+}
