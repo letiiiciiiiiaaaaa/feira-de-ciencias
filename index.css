@@ -43,3 +43,38 @@ body{
     margin-left: 18px;
     font-size: 130px;
 }
+
+button{
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    padding-right:6em;
+    font-weight: bold;
+}
+
+
+
+.a{
+    margin-top: 3em;
+   background-color: #87cefa;
+   width: 20%;
+   height: 7vh;
+   border: none;
+   border-radius: 10px;
+}
+
+.b{
+    background-color: #2b91d6;
+}
+
+.c{
+    background-color: #2572e8;
+}
+
+.d{
+    background-color: #022b60;
+}
+
+.e{
+    background-color: #011329;
+}
